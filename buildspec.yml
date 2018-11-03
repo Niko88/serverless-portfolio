@@ -7,7 +7,7 @@ phases:
 artifacts:
   files:
     - index.html
-    - favicon,ico
+    - favicon.ico
     - NicholasEsposito.pdf
     - styles/main.class
     - images/*
